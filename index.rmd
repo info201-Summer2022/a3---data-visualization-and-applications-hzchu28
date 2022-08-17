@@ -101,7 +101,8 @@ Map:
 ![combomap](charts/combomap.jpg)
 *(map combo example of Asian American/Pacific Islander race in 2018)*
 
-
+![combomapyear](charts/combomapyear.jpg)
+*(map combo example of White race in 1999, 2005, 2010, 2018)*
 
 The vales from the table shown above and from other data csv files solve the following questions: 
 
@@ -115,4 +116,14 @@ A2: From bar charts we found that state who has the highest total population and
 
 - **Q3: How much has my variable change over the last N years?**
 
-A3: 
+A3: The map charts shows how different races' jail population change during 1999 to 2018. We can see by choosing year that:
+
+- Asian American/Pacific Islander jail population tend to be high in West throughout the years and somehow high in South in 2000-2005.
+
+- Black jail population is high in Western North throughout the years and often high in South, especially in Illinois, Texas, and Florida. 
+
+- Latinx jail population is high in Western South through the year, it got peak at 2014 and tend to be concentrate in California and New Mexico. 
+
+- Native American jail population is focus at South and tend to have higher from New Mexico to Arizona through the year. 
+
+- White jail population is high in Washington and spread in every state else throughout the years. However, it was pretty less proportion across the country around 2010. 
