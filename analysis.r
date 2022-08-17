@@ -5,10 +5,6 @@ library(readr)
 incarceration_df <- read.csv("incarceration_trends.csv")
 #CA California, WA Washington, AZ Arizona, NM New Mexico, TX Texas, FL Florida, OH Ohio, PA Pennsylvania, IL illinois, NY New York
 
-#Answer questions
-#1 What is the average value of my variable across all the counties (in the current year)?
-#2 Where is my variable the highest / lowest?
-#3 How much has my variable change over the last N years?
 
 #Organize the dataframe
 newdf <- select(incarceration_df, 
@@ -121,5 +117,13 @@ df <- data.frame(state = statechosen,
            jailpop_allyear = total_jail_popmean_allyear)
 View(df)
 write.csv(df, "C:/Users/hwang/OneDrive/Desktop/INFO201/df.csv")
+
+
+#Answer questions
+#1 What is the average value of my variable across all the counties (in the current year)?
+
+#2 Where is my variable the highest / lowest?
+
+#3 How much has my variable change over the last N years?
 
 
