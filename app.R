@@ -74,7 +74,7 @@ map <- fluidPage(
 ui <- navbarPage("US Prison System Analysis", 
                  tabPanel(
                    "Introduction",
-                   p("This is a page about US Prison System Analysis")
+                   p("Racism in the United States has always been a hot topic of discussion. For this assignment, I focused on the populations of races and the trends of racial incarceration population of ten states of U.S. in between 1999 to 2018, to figure out how incarceration on races changed in U.S. during 1999 to 2018.")
                  ),
                  tabPanel(
                    "State Information", bar

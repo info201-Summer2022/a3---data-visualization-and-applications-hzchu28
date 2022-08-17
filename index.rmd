@@ -88,6 +88,21 @@ Bar chart:
 
 *(bar chart example of New York)*
 
+Line chart:
+
+![line.pa.white](charts/line.pa.white.jpg)
+*(line chart example of white race in Pennsylvania)*
+
+![line.pa.black](charts/line.pa.black.jpg)
+*(line chart example of black race in Pennsylvania)*
+
+Map:
+
+![combomap](charts/combomap.jpg)
+*(map combo example of Asian American/Pacific Islander race in 2018)*
+
+
+
 The vales from the table shown above and from other data csv files solve the following questions: 
 
 - **Q1: What is the average value of my variable across all the counties (in the current year)?**
@@ -96,6 +111,8 @@ A1: As data shown in table1, the mean population and jail population of counties
 
 - **Q2: Where is my variable the highest / lowest?**
 
-
+A2: From bar charts we found that state who has the highest total population and jail population is CA, and the lowest is NM. We also found that some states has relatively high population and has lower jail population, such as New York, while some has even higher jail population than other state who has lower total population than them, such as Texas. 
 
 - **Q3: How much has my variable change over the last N years?**
+
+A3: 
